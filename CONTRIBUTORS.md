@@ -49,6 +49,7 @@ Nominees for Additional TSC Seats:
   - Hunor Demeter, VMware
   - Erhan Lokman, Argela
   - Sandip Sarkar, Capgemini
+  - Rakesh Kumar, Juniper Networks
 
 ## Contributors and committers
 
@@ -115,3 +116,9 @@ Nominees for Additional TSC Seats:
 | Jitendra Sapariya         | [jitendrs](https://github.com/jitendrs)               | Swisscom         |           |
 | Chandrashekhar Thakare    | [chanduthakare](https://github.com/chanduthakare)     | Capgemini        |           |
 | Sandip Sarkar             | [sandips777](https://github.com/sandips777)           | Capgemini        |           |
+| Rakesh Kumar		    | [rakesh-kumar68](https://github.com/rakesh-kumar68)   | Juniper Networks |           |     
+| Tong Jiang		    | [jnpr-tjiang](https://github.com/jnpr-tjiang)   	    | Juniper Networks |           |     
+| Dinesh Naganna	    | [jndinesh](https://github.com/jndinesh)   	    | Juniper Networks |           |     
+
+
+   
